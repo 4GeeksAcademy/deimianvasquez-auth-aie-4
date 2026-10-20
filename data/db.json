@@ -1,0 +1,86 @@
+{
+    "users": {
+        "1": {
+            "lastname": "string",
+            "email": "user@example.com",
+            "rol": "General",
+            "id": 1,
+            "password_hash": "pbkdf2_sha256$600000$a95462e81898018f91d07fadb20c87fb$48077b146c6208dc18d286f71fb1c0072741c37bef73b3afcb0c383887efe171",
+            "created_at": "2026-10-20T02:04:05.917226+00:00",
+            "update_at": "2026-10-20T02:04:05.917226+00:00"
+        },
+        "2": {
+            "lastname": "string",
+            "email": "user1@example.com",
+            "rol": "General",
+            "id": 2,
+            "password_hash": "pbkdf2_sha256$600000$135726de970cf1c1b32b5f9591db2d6c$16737a1656b4af8efdda3eb1aaa58c290c32a6bfb797e3d260b3501051b930a9",
+            "created_at": "2026-10-20T02:05:48.143844+00:00",
+            "update_at": "2026-10-20T02:05:48.143844+00:00"
+        },
+        "3": {
+            "lastname": "string",
+            "email": "user2@example.com",
+            "rol": "General",
+            "id": 3,
+            "password_hash": "pbkdf2_sha256$600000$7e927f021b59005c145325ce71f2a435$b05714764e32644b0c49c96de763df427dfbde86f0ca2e82114656210650eb39",
+            "created_at": "2026-10-20T02:06:38.847401+00:00",
+            "update_at": "2026-10-20T02:06:38.847401+00:00"
+        },
+        "4": {
+            "lastname": "string",
+            "email": "user4@example.com",
+            "rol": "General",
+            "id": 4,
+            "password_hash": "pbkdf2_sha256$600000$36993a1a59529c44e376015200211047$a7bf9b28924e4c54671a4c5197999fedfa8dd4119d58496787a8b0311b63c9de",
+            "created_at": "2026-10-20T02:07:33.408550+00:00",
+            "update_at": "2026-10-20T02:07:33.408550+00:00"
+        },
+        "5": {
+            "lastname": "string",
+            "email": "user5@example.com",
+            "rol": "General",
+            "id": 5,
+            "password_hash": "pbkdf2_sha256$600000$124cca0e19f6c44e93ebad30f5f8e219$b1be29104361cba77a2c24fa418957bc1ef95e8d8fa7f5a77c3e5abed3dea534",
+            "created_at": "2026-10-20T02:07:59.342890+00:00",
+            "update_at": "2026-10-20T02:07:59.342890+00:00"
+        },
+        "6": {
+            "lastname": "string",
+            "email": "user4e@example.com",
+            "rol": "Admin",
+            "id": 6,
+            "password_hash": "pbkdf2_sha256$600000$716485fd8f52312b8d5bc9500b64bc30$ef5c3bec2c908f7fc5313cf403b2a57ab10f51c8f0dd2ca1305fbb0f5ec6b87b",
+            "created_at": "2026-10-20T02:08:47.924174+00:00",
+            "update_at": "2026-10-20T02:08:47.924174+00:00"
+        },
+        "7": {
+            "lastname": "string",
+            "email": "user4eee@example.com",
+            "rol": "Admin",
+            "id": 7,
+            "password_hash": "pbkdf2_sha256$600000$6dbc4ee004c1da90a13bf4ac6e7333f0$46836a66415f98b561383e9dde146eb15a7ab6611b51921bc4ac6fde6e514f2f",
+            "created_at": "2026-10-20T02:10:21.793571+00:00",
+            "update_at": "2026-10-20T02:10:21.793571+00:00"
+        },
+        "8": {
+            "lastname": "string",
+            "email": "user4e1ee@example.com",
+            "rol": "Admin",
+            "id": 8,
+            "password_hash": "$2b$12$1mDH.9XkIlOfxSRwB.Htf.pgEUNBv3dZff8tkfwV49/exaZUHZLMK",
+            "created_at": "2026-10-20T02:20:28.180531+00:00",
+            "update_at": "2026-10-20T02:20:28.180531+00:00"
+        },
+        "9": {
+            "lastname": "Deimian",
+            "email": "d@gmail.com",
+            "rol": "Admin",
+            "id": 9,
+            "password_hash": "$2b$12$jMM7yH0SX9MmrZRX73rn5eP/AqqWCDsxm8RsXooOUDmlR6BysmX7C",
+            "created_at": "2026-10-20T02:39:23.470357+00:00",
+            "update_at": "2026-10-20T02:39:23.470357+00:00"
+        }
+    },
+    "revoked_tokens": {}
+}
