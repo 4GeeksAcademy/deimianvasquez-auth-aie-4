@@ -16,6 +16,7 @@ class Settings(BaseSettings):
     )
     algorithm: str = "HS256"
     access_token_expire_minutes: int = 30
+    cookie_secure: bool = False
 
     model_config = SettingsConfigDict(
         env_file=PROJECT_ROOT / ".env",
@@ -24,7 +25,7 @@ class Settings(BaseSettings):
     )
 
 
-settings = Settings()
+settings = Settings() # instancia
 
 
 

@@ -26,7 +26,7 @@ def register_user(user_data: UserCreate) -> UserPublic:
 	return UserPublic.model_validate(user)
 
 
-@router.get("/user/me", response_model=UserPublic)
+
 @router.get("/users/me", response_model=UserPublic, include_in_schema=False)
 def get_me(current_user: UserPublic = Depends(authenticate_user)) -> UserPublic:
 	return current_user
